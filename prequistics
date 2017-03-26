@@ -1,0 +1,7 @@
+python  - 2.7 
+theano - 0.1.1
+pyaudio or alsa audio
+matplotlib
+numpy
+scikit-learn
+scipy.io
